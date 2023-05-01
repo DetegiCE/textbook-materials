@@ -1,0 +1,17 @@
+# RDKit을 이용한 화학정보학
+
+- [5ht3ligs.sdf](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/5ht3ligs.sdf "download")
+- [AmideBond.rxn](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/AmideBond.rxn "download")
+- [MinimalFeatures.fdef](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/MinimalFeatures.fdef "download")
+- [actives_5ht3.sdf](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/actives_5ht3.sdf "download")
+- [actives_5ht3.sdf.gz](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/actives_5ht3.sdf.gz "download")
+- [bzr.sdf](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/bzr.sdf "download")
+- [bzr.smi](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/bzr.smi "download")
+- [cdk2.sdf](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/cdk2.sdf "download")
+- [chiral.mol](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/chiral.mol "download")
+- [input.mol](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/input.mol "download")
+- [invalid.mol](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/invalid.mol "download")
+- [s1p_chembldoc89753.txt](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/s1p_chembldoc89753.txt "download")
+- [solubility.test.sdf](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/solubility.test.sdf "download")
+- [solubility.train.sdf](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/solubility.train.sdf "download")
+- [test_multi_colours.py](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/test_multi_colours.py "download")
