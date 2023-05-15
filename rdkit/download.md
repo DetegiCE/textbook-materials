@@ -11,6 +11,7 @@
 - [chiral.mol](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/chiral.mol "download")
 - [input.mol](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/input.mol "download")
 - [invalid.mol](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/invalid.mol "download")
+- [jak2_data.csv](https://raw.githubusercontent.com/isayev/ReLeaSE/master/data/jak2_data.csv "download")
 - [s1p_chembldoc89753.txt](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/s1p_chembldoc89753.txt "download")
 - [solubility.test.sdf](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/solubility.test.sdf "download")
 - [solubility.train.sdf](https://raw.githubusercontent.com/rdkit/rdkit/master/Docs/Book/data/solubility.train.sdf "download")
